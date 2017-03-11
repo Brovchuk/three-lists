@@ -22,14 +22,14 @@ body {
 	border: 0;
 	width: 80%;
 	height: 75px;
-	font-size: 60px;
+	font-size: 3.5em;
 }
 .s-frame {
-	height: 50px;
+	height: 40px;
 }
-.lists {
-	margin-top: 20px;
-}
+// .lists {
+// 	vertical-align: top;
+// }
 .avatar {
 	height: 30px;
 	vertical-align: middle;
@@ -38,10 +38,12 @@ body {
 	width: 30%;
 	display: inline-block;
 	text-align: center;
+	vertical-align: top;
+
 }
 .people, .popular, .recent {
 	text-align: center;
-	// margin-top: 20px;
+	opacity: .5;
 }
 .first-list, .second-list, .third-list {
 	list-style-type: none;
