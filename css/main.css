@@ -1,0 +1,201 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	font-family: Arial, sans-serif;
+	background-color: rgb(241, 241, 241);
+}
+.wrapper {
+	width: 80%;
+	margin: 0 auto;
+}
+.search {
+	margin: 40px;
+}
+.search-line, .search-frame, .lists {
+	display: inline-block;
+}
+.search-line {
+	background-color: rgb(241, 241, 241);
+	border: 0;
+	width: 80%;
+	height: 75px;
+	font-size: 60px;
+}
+.s-frame {
+	height: 50px;
+}
+.lists {
+	margin-top: 20px;
+}
+.avatar {
+	height: 30px;
+	vertical-align: middle;
+}
+.popular-block, .people-block, .recent-block {
+	width: 30%;
+	display: inline-block;
+	text-align: center;
+}
+.people, .popular, .recent {
+	text-align: center;
+	// margin-top: 20px;
+}
+.first-list, .second-list, .third-list {
+	list-style-type: none;
+}
+li {
+	background-color: rgba(118,117,128,0.05);
+	text-align: center;
+	margin: 20px;
+	padding: 20px;
+	width: 80%;
+	height: 50px;
+}
+li:hover {
+	background-color: rgba(118,117,128,0.1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// html, body {
+// 	margin: 0;
+// 	padding: 0;
+// 	box-sizing: border-box;
+// 	background-color: rgb(241, 241, 241);
+// }
+// body {
+// 	font-family: Arial, sans-serif;
+// }
+// .wrapper {
+// 	width: 80%;
+// 	margin: 0 auto;
+// }
+// .search-line {
+// 	line-height: 5;
+// 	color: #ec5a62;	
+// 	padding: 5px;
+// 	margin-top: 20px;
+// 	border: 0;
+// 	background-color: rgb(241, 241, 241);
+// }
+// img {
+// 	height 40px;
+// 	width: 40px;
+// }
+// .lists, .search-line, .search-frame {
+// 	display: inline-block;
+// }
+// .lists {
+// 	width: 25%;
+// 	display: inline-block;
+// } 
+// ul {
+// list-style-type: none;
+// }
+// li {
+// 	background-color: rgba(118,117,128,0.05);
+// }
