@@ -8,7 +8,7 @@ body {
 	background-color: rgb(241, 241, 241);
 }
 .wrapper {
-	width: 80%;
+	width: 90%;
 	margin: 0 auto;
 }
 .search {
@@ -22,7 +22,7 @@ body {
 	border: 0;
 	width: 80%;
 	height: 75px;
-	font-size: 60px;
+	font-size: 3em;
 }
 .s-frame {
 	height: 50px;
@@ -31,7 +31,7 @@ body {
 	margin-top: 20px;
 }
 .avatar {
-	height: 30px;
+	height: 40px;
 	vertical-align: middle;
 }
 .popular-block, .people-block, .recent-block {
@@ -42,7 +42,6 @@ body {
 }
 .people, .popular, .recent {
 	text-align: center;
-	// margin-top: 20px;
 }
 .first-list, .second-list, .third-list {
 	list-style-type: none;
