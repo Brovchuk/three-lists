@@ -38,6 +38,7 @@ body {
 	width: 30%;
 	display: inline-block;
 	text-align: center;
+	vertical-align: top;
 }
 .people, .popular, .recent {
 	text-align: center;
