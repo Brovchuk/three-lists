@@ -27,9 +27,6 @@ body {
 .s-frame {
 	height: 40px;
 }
-// .lists {
-// 	vertical-align: top;
-// }
 .avatar {
 	height: 45px;
 	vertical-align: middle;
@@ -40,7 +37,6 @@ body {
 	text-align: center;
 	vertical-align: top;
 	font-style: 14px;
-
 }
 .people, .popular, .recent {
 	text-align: center;
@@ -61,145 +57,3 @@ li:hover {
 	background-color: rgba(118,117,128,0.1);
 	color: red;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// html, body {
-// 	margin: 0;
-// 	padding: 0;
-// 	box-sizing: border-box;
-// 	background-color: rgb(241, 241, 241);
-// }
-// body {
-// 	font-family: Arial, sans-serif;
-// }
-// .wrapper {
-// 	width: 80%;
-// 	margin: 0 auto;
-// }
-// .search-line {
-// 	line-height: 5;
-// 	color: #ec5a62;	
-// 	padding: 5px;
-// 	margin-top: 20px;
-// 	border: 0;
-// 	background-color: rgb(241, 241, 241);
-// }
-// img {
-// 	height 40px;
-// 	width: 40px;
-// }
-// .lists, .search-line, .search-frame {
-// 	display: inline-block;
-// }
-// .lists {
-// 	width: 25%;
-// 	display: inline-block;
-// } 
-// ul {
-// list-style-type: none;
-// }
-// li {
-// 	background-color: rgba(118,117,128,0.05);
-// }
