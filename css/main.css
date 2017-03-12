@@ -31,7 +31,7 @@ body {
 // 	vertical-align: top;
 // }
 .avatar {
-	height: 30px;
+	height: 45px;
 	vertical-align: middle;
 }
 .popular-block, .people-block, .recent-block {
@@ -39,6 +39,7 @@ body {
 	display: inline-block;
 	text-align: center;
 	vertical-align: top;
+	font-style: 14px;
 
 }
 .people, .popular, .recent {
